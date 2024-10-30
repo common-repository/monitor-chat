@@ -1,0 +1,20 @@
+# Copyright (C) 2021 monitorchat
+# This file is distributed under the same license as the monitorchat package.
+msgid ""
+msgstr ""
+"Project-Id-Version: monitorchat 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/WordPress-Plugin-Template\n"
+"POT-Creation-Date: 2014-04-07 11:28:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-02-11 17:10+CST\n"
+"Last-Translator: EDWARD STOEVER <edward@database-expert.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/post-types/class-monitorchat-post_type.php:52
+#: includes/post-types/class-monitorchat-post_type.php:42
+msgctxt "post type general name"
+msgid "Post Type"
+msgstr ""
+
